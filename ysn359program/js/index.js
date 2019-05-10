@@ -33,7 +33,6 @@ $(window).load(function(){
 	let deffered = $.ajax({
 		type:"get",
 		url:"data.json?new Date().getTime()",
-		datatype:"jsonp",
 		async:true
 	});
 	deffered.done(function(json){
