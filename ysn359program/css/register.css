@@ -1,0 +1,80 @@
+.reg_cen_body{
+	width: 1190px;
+	margin: 20px auto;
+}
+#register_cen{
+	width: 625px;
+	height: 630px;
+	border: 2px solid #cccccc;
+}
+.register_head h2{
+	font-size: 22px;
+	color: #1566c0;
+	line-height: 44px;
+	border-bottom: 1px solid #CCCCCC;
+	padding-left: 20px;
+}
+#reg_form .form_lable{
+	width: 128px;
+	float: left;
+}
+#reg_form h3,h4{
+	text-align: right;
+	font-size: 12px;
+	color: #666666;
+	font-weight: 300;
+	line-height: 28px;
+}
+#reg_form span{
+	color: #FF0000;
+	display: none;
+	float: right;
+	margin-right: 50px;
+	margin-top: 10px;
+	font-size: 9px;
+}
+#reg_form .reg_inp{
+	width: 296px;
+	height: 30px;
+}
+#reg_form li{
+	margin: 20px;
+}
+#pwdweight{
+	width: 140px;
+	float: right;
+}
+#pwdweight h3{
+	float: left;
+	display: block;
+	font-size: 12px;
+}
+#pwdweight h4{
+	margin-left: 20px;
+	float: left;
+	display: block;
+}
+#pwdweight div{
+	float: left;
+	margin-right: 10px;
+	width: 100px;
+	height: 8px;
+	background: #CCCCCC;
+}
+#reg_yzm{
+	width: 130px;
+	height: 28px;
+	line-height: 28px;
+	display: inline-block;
+	background: #f69214;
+	color: #FFFFFF;
+	text-align: center;
+}
+#reg_form #reg_yzm_inp{
+	width: 88px;
+}
+
+#reg_form a{
+	font-size: 12px;
+}
+

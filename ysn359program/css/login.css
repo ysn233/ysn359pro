@@ -1,0 +1,36 @@
+#login_cen{
+	width: 360px;
+	height: 380px;
+	border: 2px solid #cccccc;
+	margin-left: 850px;
+	margin-bottom: 20px;
+}
+.log_inp{
+	width: 296px;
+	height: 30px;
+	margin: 20px;
+}
+#login_bottom_reg{
+	background: #efefef;
+	margin-top: 35px;
+}
+#login_bottom_reg a{
+	line-height: 45px;
+	color: #e73e31;
+	margin-left: 20px;
+}
+#login_bottom_reg button{
+	background: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	height: 24px;
+	width: 68px;
+	float: right;
+	margin-right: 23px;
+	margin-top: 10px;
+}
+.log_body{
+	background: url(../img/login_biglogo.jpg) no-repeat 0 -60px;
+}
+.reg_sub,.reg_rem{
+	margin-left: 20px;
+}

@@ -1,0 +1,121 @@
+#shopcarinfo{
+	width: 1190px;
+	margin: 0 auto;
+}
+#shopcar_top p{
+	font-size: 16px;
+	color: #666666;
+	padding: 8px;
+}
+#shopcar_proinfo{
+	position: relative;
+	border: 1px solid #CCCCCC;
+	padding-bottom: 200px;
+}
+#shopcar_proinfo_title{
+	width: 100%;
+	background: #efefef;
+}
+#shopcar_proinfo_title span{
+	line-height: 36px;
+	display: inline-block;
+	text-align: center;
+}
+#shopcar_proinfo_title span:first-of-type{
+	width: 50%;
+}
+#shopcar_proinfo_title span:last-of-type{
+	width: 20%;
+	float: right;
+}
+.shopcar_proinfo_detail{
+	border-bottom: 1px solid #CCCCCC;
+	padding: 10px;
+	width: 98%;
+	height: 80px;
+	background: #FFFFFF;
+}
+.shopcar_proinfo_img{
+	float: left;
+	width: 80px;
+	height: 80px;
+	border: 1px solid #CCCCCC;
+}
+.shopcar_proinfo_img img{
+	width: 100%;
+}
+.shopcar_proinfo_name{
+	margin-left: 30px;
+	width: 40%;
+	float: left;
+	padding: 30px 0;
+}
+.shopcar_proinfo_name p{
+	width: 60%;
+}
+.shopcar_proinfo_price{
+	width: 15%;
+	float: left;
+	padding: 30px 0;
+}
+.shopcar_proinfo_del{
+	float: right;
+	margin-right: 90px;
+	padding: 30px 0;
+}
+.conshop{
+	font-size: 14px;
+	position: absolute;
+	right: 220px;
+	line-height: 40px;
+	text-decoration: underline;
+	color: #666666;
+}
+#shopcar_proinfo_money{
+	text-align: right;
+	width: 1190px;
+	height: 80px;
+	position: absolute;
+	bottom: 70px;
+	right: 0;
+}
+#shopcar_proinfo_money h3{
+	font-size: 12px;
+	color: #666666;
+	display: inline-block;
+	font-weight: 300;
+}
+#shopcar_proinfo_money h4{
+	margin: 0 20px;
+	font-size: 18px;
+	color: #fe2000;
+	display: inline-block;
+	font-weight: 300;
+}
+#shopcar_proinfo_bottom{
+	height: 50px;
+	position: absolute;
+	bottom: 0;
+	width: 1190px;
+}
+#shopcar_proinfo_bottom #clearcar{
+	position: absolute;
+	left: 30px;
+	bottom: 20px;
+	width: 90px;
+	line-height: 24px;
+	font-size: 12px;
+	color: #666666;
+	background: #FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+#shopcar_proinfo_bottom #total{
+	position: absolute;
+	right: 30px;
+	width: 145px;
+	line-height: 42px;
+	font-size: 16px;
+	color: #FFFFFF;
+	background: #d31c26;
+	border: none;
+}
